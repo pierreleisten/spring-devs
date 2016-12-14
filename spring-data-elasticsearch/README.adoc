@@ -1,0 +1,4 @@
+= Elasticsearch and spring-data working together
+
+Prerequisites :
+ * elastic search running instance (version 2.4.0)
